@@ -1,3 +1,4 @@
 streamlit>=1.39
 google-genai>=2.25.0
 pydub
+audioop-lts
